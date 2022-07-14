@@ -8,4 +8,4 @@ Project Work History:
 
 3.14th July 2022 JavaScript skill-menu movement update / portfolio list update  
 
----If there is something to add, leave a msg Please ---
+--- If there is something to add, please leave a msg ---
